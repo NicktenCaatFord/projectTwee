@@ -4,6 +4,12 @@
   margin: 0;
 }
 
+body{
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /*this is the header*/
 #header{
   background-image: url(images/header.svg);
