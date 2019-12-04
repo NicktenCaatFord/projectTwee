@@ -13,3 +13,9 @@
   background-repeat: no-repeat;
   border: 3px solid black;
 }
+/* custom font als je een tekst dit font wilt gebruiken moet je de naam "font" gebruiken. graag cusotm font in dit stukje invoegen*/
+@font-face{ 
+font-family: bit;
+src: url("PressStart2P.ttf");
+}
+/*einde custom font */
