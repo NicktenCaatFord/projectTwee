@@ -2,8 +2,14 @@
   padding: 0;
   margin: 0;
 }
+
+/*this is the header*/
 #header{
   background-image: url(images/header.svg);
   position: fixed;
   width: 100%;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 3px solid black;
 }
