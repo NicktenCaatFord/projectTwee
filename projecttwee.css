@@ -8,6 +8,8 @@ body{
   background-image: url(images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: bit, sans-serif;
+  font-size: 14pt;
 }
 
 /*this is the header*/
@@ -19,6 +21,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   border: 3px solid black;
+  top: 0;
 }
 /* custom font als je een tekst dit font wilt gebruiken moet je de naam "font" gebruiken. graag cusotm font in dit stukje invoegen*/
 @font-face{ 
@@ -32,4 +35,13 @@ src: url("PressStart2P.ttf");
   margin-right: auto;
   width: 500px;
   height: 60px;
+}
+
+#container{
+  margin-top: 86px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 980px;
+  height: auto;
+  background-color: white;
 }
