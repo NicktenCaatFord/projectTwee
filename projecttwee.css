@@ -48,3 +48,60 @@ src: url("PressStart2P.ttf");
   background-color: white;
 }
 
+#menubalk{
+  font-family: arial, calibri, sans-serif;
+  font-size: 14pt;
+  width: auto;
+  height: 50px;
+  background-color: white;
+  float: right;
+  margin-right: 10px;
+  
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  border-bottom: 3px solid 
+}
+
+#navMenu{
+  display: none;
+  background-color: white;
+  width: auto;
+  height: 50px;
+  z-index: 1;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  float: right;
+  margin-right: 10px;
+}
+
+#menubalk:hover #navMenu{
+  display: block;
+}
+
+#showMenu{
+  position: relative;
+  height: auto;
+  width: 50px;
+  background-color: white;
+  display: block;
+
+}
+
+.bar{
+  width: 40px;
+  height: 5px;
+  background-color: black;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 8px;
+  
+}
