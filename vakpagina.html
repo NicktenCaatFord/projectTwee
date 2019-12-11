@@ -4,17 +4,6 @@
 <meta charset="utf-8">
 <title>html css</title>
 <link href="projecttwee.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-	function myFunction() {
-		var x = document.getElementById("myLinks");
-		if (x.style.display === "block") {
-			x.style.display === "none";
-		}
-		else{
-			x.style.display = "block";
-		}
-	}
-</script>
 </head>
 <body>
 	<div id="header">
@@ -25,11 +14,12 @@
 		<!--menubalk-->
 		<div id="menubalk">
 			<div id="myLinks">
-			  	<a href="vakpagina.html">Ons vak</a>
-			 	<a href="overons.html">Over ons</a>
-			  	<a href="contact.html">contact</a>
+				<ul>
+				  	<li><a href="vakpagina.html">Ons vak</a></li>
+				 	<li><a href="overons.html">Over ons</a></li>
+				  	<li><a href="contact.html">contact</a></li>
+				</ul>
 			</div>
-			<a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
 		</div>
 		<!--einde menubalk-->
 	</div>
