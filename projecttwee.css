@@ -48,16 +48,6 @@ src: url("PressStart2P.ttf");
   background-color: white;
 }
 
-#menubalk{
-  font-family: arial, calibri, sans-serif;
-  font-size: 14pt;
-  width: auto;
-  height: 50px;
-  background-color: white;
-  float: right;
-  margin-right: 10px;
-  
-}
 
 ul{
   list-style: none;
@@ -75,8 +65,8 @@ a:hover{
 #navMenu{
   display: none;
   background-color: white;
-  width: 90px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   z-index: 1;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   margin-right: 100px;
@@ -88,7 +78,7 @@ a:hover{
 
 #showMenu{
   position: relative;
-  height: auto;
+  height: 45px;
   width: 50px;
   background-color: white;
   display: block;
@@ -109,9 +99,17 @@ a:hover{
 
 #menubalk{
   float: right;
-  margin-right: 60px;
+  margin-right: 80px;
+  font-family: arial, calibri, sans-serif;
+  font-size: 18pt;
+  width: auto;
+  height: 50px;
 }
 
 #showMenu li{
   padding: 5px;
+}
+
+#showMenu:hover{
+  background-color: rgb(16,113,186);
 }
