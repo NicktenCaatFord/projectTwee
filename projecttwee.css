@@ -53,15 +53,6 @@ ul{
   list-style: none;
 }
 
-a{
-  text-decoration: none;
-  color: black;
-}
-
-a:hover{
-  border-bottom: 3px solid 
-}
-
 #navMenu{
   display: none;
   background-color: white;
@@ -84,6 +75,7 @@ a:hover{
   display: block;
   float: left;
   margin-top: 3px;
+  cursor: pointer;
 
 }
 
@@ -112,4 +104,13 @@ a:hover{
 
 #showMenu:hover{
   background-color: rgb(16,113,186);
+}
+
+#showMenu a:hover{
+  border-bottom: 3px solid 
+}
+
+#showMenu a{
+  text-decoration: none;
+  color: black;
 }
