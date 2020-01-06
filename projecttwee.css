@@ -143,18 +143,6 @@ ul{
   padding: 5px;
 }
 
-.julian{
-  padding: 5px;
-  text-align: justify;
-  float: left;
-}
-
-.koen{
- text-align: justify;
- padding: 5px;
- float: right;
-}
-
 .pleft{
   float: left;
   padding: 5px;
@@ -168,9 +156,11 @@ ul{
 }
 
 .h2left{
-
+  padding: 5px;
+  float: left;
 }
 
 .h2right{
-
+  padding: 5px;
+  float: right;
 }
