@@ -114,3 +114,22 @@ ul{
   text-decoration: none;
   color: black;
 }
+
+#footer{
+  height: 60px;
+  width: 100%;
+  bottom: 0;
+  background-color: white;
+  position: fixed;
+  border-top: 3px solid black;
+  text-align: center;
+}
+
+.pfooter{
+  margin-left: auto;
+  margin-right: auto;
+  height: 60px;
+  width: 260px;
+  margin-top: 10px;
+  font-size: 12pt;
+}
