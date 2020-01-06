@@ -142,3 +142,35 @@ ul{
 .hOverOns{
   padding: 5px;
 }
+
+.julian{
+  padding: 5px;
+  text-align: justify;
+  float: left;
+}
+
+.koen{
+ text-align: justify;
+ padding: 5px;
+ float: right;
+}
+
+.pleft{
+  float: left;
+  padding: 5px;
+  text-align: justify;
+}
+
+.pright{
+  float: right;
+  text-align: justify;
+  padding: 5px;
+}
+
+.h2left{
+
+}
+
+.h2right{
+
+}
