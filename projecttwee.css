@@ -143,24 +143,16 @@ ul{
   padding: 5px;
 }
 
-.pleft{
+.poverons{
   float: left;
   padding: 5px;
   text-align: justify;
+  width: 300px;
+  height: 300px;
+  font-size: 10pt;
 }
 
-.pright{
-  float: right;
-  text-align: justify;
-  padding: 5px;
-}
-
-.h2left{
-  padding: 5px;
-  float: left;
-}
-
-.h2right{
-  padding: 5px;
-  float: right;
+.span{
+  font-size: 14pt;
+  color: rgb(16,113,186);
 }
