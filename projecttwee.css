@@ -143,16 +143,29 @@ ul{
   padding: 5px;
 }
 
-.poverons{
-  float: left;
-  padding: 5px;
-  text-align: justify;
-  width: 500px;
-  height: 300px;
-  font-size: 10pt;
-}
-
 .span{
   font-size: 14pt;
   color: rgb(16,113,186);
+}
+
+.para{
+  width: 980px;
+  height: 1000px;
+  font-size: 10pt;
+}
+
+.story{
+  float: left;
+  width: 410px;
+  height: 500px;
+  text-align: justify;
+  padding: 2px;
+}
+
+.storyright{
+  float: right;
+  width: 400px;
+  height: 500px;
+  text-align: justify;
+  padding: 2px;
 }
