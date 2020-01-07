@@ -150,14 +150,15 @@ ul{
 
 .para{
   width: 980px;
-  height: 1000px;
+  height: 1200px;
   font-size: 10pt;
+  margin-bottom: 20px;
 }
 
 .story{
   float: left;
   width: 410px;
-  height: 500px;
+  height: 600px;
   text-align: justify;
   padding: 2px;
 }
@@ -165,7 +166,7 @@ ul{
 .storyright{
   float: right;
   width: 400px;
-  height: 500px;
+  height: 600px;
   text-align: justify;
   padding: 2px;
 }
