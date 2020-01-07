@@ -143,24 +143,29 @@ ul{
   padding: 5px;
 }
 
-.pleft{
+.span{
+  font-size: 14pt;
+  color: rgb(16,113,186);
+}
+
+.para{
+  width: 980px;
+  height: 1000px;
+  font-size: 10pt;
+}
+
+.story{
   float: left;
-  padding: 5px;
+  width: 410px;
+  height: 500px;
   text-align: justify;
+  padding: 2px;
 }
 
-.pright{
+.storyright{
   float: right;
+  width: 400px;
+  height: 500px;
   text-align: justify;
-  padding: 5px;
-}
-
-.h2left{
-  padding: 5px;
-  float: left;
-}
-
-.h2right{
-  padding: 5px;
-  float: right;
+  padding: 2px;
 }
