@@ -228,3 +228,38 @@ div.htmlimg2{
 .padding{
   padding: 5px;
 }
+
+/* <------------------------------contact formulier lmfao------------------------------>*/
+input[type=text], select, textarea {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=verzend] {
+  background-color: #D6EEB4;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type=verzend]:hover {
+  background-color: #45a049;
+}
+
+.container2 {
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* <------------------------------einde contact formulier ---------------------------> */
