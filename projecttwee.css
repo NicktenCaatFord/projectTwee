@@ -143,6 +143,11 @@ ul{
   padding: 5px;
 }
 
+.hHtmlcss{
+  padding: 5px;
+  float: center;
+}
+
 .span{
   font-size: 14pt;
   color: rgb(16,113,186);
@@ -169,4 +174,30 @@ ul{
   height: 600px;
   text-align: justify;
   padding: 2px;
+}
+=======
+  width: 400px;
+  height: 500px;
+  text-align: justify;
+  padding: 2px;
+}
+>>>>>>> 8efeee0b1f2c9de2c0aaa4d2fbdf36597e6f46fd
+
+
+/* vakpagina */
+
+div.htmlimg{
+  float: left;
+  width: 500px;
+  margin-left: 5px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+div.htmlimg2{
+  float: right;
+  width: 300px;
+  margin-top: 100px;
+  margin-right: 50px; 
+  margin-bottom: 100px;
+
 }
