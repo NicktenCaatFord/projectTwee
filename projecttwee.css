@@ -142,7 +142,10 @@ ul{
 .hOverOns{
   padding: 5px;
 }
-
+.hHtmlcss{
+  padding: 5px;
+  float: center;
+}
 .pleft{
   float: left;
   padding: 5px;
@@ -164,3 +167,31 @@ ul{
   padding: 5px;
   float: right;
 }
+/* vakpagina */
+
+div.htmlimg{
+  float: left;
+  width: 500px;
+  margin-left: 5px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+div.htmlimg2{
+  float: right;
+  width: 300px;
+  margin-top: 100px;
+  margin-right: 50px; 
+  margin-bottom: 100px;
+
+}
+
+}
+div.texthtml{
+  margin-top: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 980px;
+  height: auto;
+  background-color: white;
+}
+
