@@ -204,3 +204,12 @@ div.htmlimg2{
   font-size: 14pt;
   font-family: Arial, Calibri, sans-serif;
 }
+
+.center{
+  color: rgb(16,113,186);
+  text-align: center;
+}
+
+.centerImg{
+  margin-left: 300px;
+}
