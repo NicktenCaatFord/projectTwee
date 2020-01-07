@@ -50,6 +50,7 @@ p{
   width: 980px;
   height: auto;
   background-color: white;
+  margin-bottom: 100px;
 }
 
 
@@ -151,6 +152,7 @@ ul{
 .span{
   font-size: 14pt;
   color: rgb(16,113,186);
+  font-family: bit;
 }
 
 .para{
@@ -162,10 +164,12 @@ ul{
 
 .story{
   float: left;
-  width: 410px;
+  width: 400px;
   height: 600px;
   text-align: justify;
   padding: 2px;
+  font-family: Arial, Calibri, sans-serif;
+  font-size: 12pt;
 }
 
 .storyright{
@@ -174,6 +178,8 @@ ul{
   height: 600px;
   text-align: justify;
   padding: 2px;
+  font-family: Arial, Calibri, sans-serif;
+  font-size: 12pt;
 }
 
 /* vakpagina */
@@ -192,4 +198,9 @@ div.htmlimg2{
   margin-right: 50px; 
   margin-bottom: 100px;
 
+}
+
+.font{
+  font-size: 14pt;
+  font-family: Arial, Calibri, sans-serif;
 }
