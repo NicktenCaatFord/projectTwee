@@ -199,6 +199,10 @@ div.htmlimg2{
   margin-bottom: 100px;
 
 }
+.Interimg{
+  width: 980px;
+  height: 1300px;
+}
 /*einde vakpagina*/
 
 .font{
@@ -238,6 +242,8 @@ div.htmlimg2{
   margin-bottom: 25px;
   margin-left: 5px;
 }
+
+
 
 /* <-----------------------------contact formulier lmfao------------------------------>*/
 input[type=text], select, textarea {
