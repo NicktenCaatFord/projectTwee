@@ -244,7 +244,7 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
-input[type=verzend] {
+input[type=submit] {
   background-color: #D6EEB4;
   color: white;
   padding: 12px 20px;
@@ -253,7 +253,7 @@ input[type=verzend] {
   cursor: pointer;
 }
 
-input[type=verzend]:hover {
+input[type=submit]:hover {
   background-color: #45a049;
 }
 
