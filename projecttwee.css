@@ -121,7 +121,7 @@ ul{
 }
 
 #footer{
-  height: 60px;
+  height: 30px;
   width: 100%;
   bottom: 0;
   background-color: white;
@@ -133,7 +133,7 @@ ul{
 .pfooter{
   margin-left: auto;
   margin-right: auto;
-  height: 60px;
+  height: 30px;
   width: 260px;
   margin-top: 10px;
   font-size: 12pt;
