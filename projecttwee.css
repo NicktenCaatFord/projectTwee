@@ -230,6 +230,15 @@ div.htmlimg2{
   padding: 5px;
 }
 
+.margin{
+  margin-bottom: 25px;
+}
+
+.marginTwee{
+  margin-bottom: 25px;
+  margin-left: 5px;
+}
+
 /* <-----------------------------contact formulier lmfao------------------------------>*/
 input[type=text], select, textarea {
   width: 80%;
